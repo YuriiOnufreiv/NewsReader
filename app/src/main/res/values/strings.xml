@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+    <string name="action_refresh">Оновити</string>
+    <string name="action_flippingOn">Ввімкнути слайд-шоу</string>
+    <string name="action_flippingOff">Вимкнути слайд-шоу</string>
+    <string name="drawer_open">Opened</string>
+    <string name="drawer_close">Closed</string>
+    <string name="action_close">Закрити</string>
+</resources>
